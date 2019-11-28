@@ -1,0 +1,25 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreaMyshkn/tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreaMyshkn/tailwind/issues"
+  },
+  "homepage": "https://github.com/AndreaMyshkn/tailwind#readme",
+  "dependencies": {
+    "autoprefixer": "^9.7.2",
+    "postcss-cli": "^6.1.3",
+    "tailwindcss": "^1.1.4"
+  }
+}
